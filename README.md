@@ -1,4 +1,4 @@
 # Session4-Day3Assignment-2
 ## Problem Statement
-Write a program illustarting 'equals' , '==', '!=' , 'ne', and 'eq' with  
-different methods on how they can be used for different purpose.  
+Following project consists of different inbuilt methods like 'equals' , '==', '!=' , 'ne', and 'eq'  
+in different methods to show how they can be used for different purpose.  
